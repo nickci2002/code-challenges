@@ -1,0 +1,7 @@
+.root {
+    --color-primary: #a6ff00; /* chartreuse */
+    --color-secondary: #228b22; /* forest green */
+    --color-black: #20211e; /* black */
+    --color-white: #bdd8c4; /* white */
+    background-color: var(--color-white);
+}
